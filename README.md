@@ -25,6 +25,7 @@ User Input: Users input their movie preferences via the Streamlit web interface.
 Recommendation Generation: The system uses the trained model to generate and display a list of recommended movies that match the user’s preferences.
 
 **Usage**
+
 Open the Streamlit web interface.
 Select or type in your favorite movie.
 Click on the "Show Recommendation" button.
